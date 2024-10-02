@@ -1,4 +1,7 @@
-# ATM Example
+# Dependency Injection with a Layer of Indirection Example
 
-Dependency injection with a layer of indirection.
+This code is an example for a Dependency Injection with a layer of indirection lesson. Videos and slides for the lesson are below.
+
+- video: [Dependency Injection](https://www.youtube.com/watch?v=V2XiTpDy_To)
+- slides: [Dependency Injection](https://drive.google.com/file/d/1BJZIqruQrSo6lw1c5H9JAJZ7oJ-uFVKs/view?usp=drive_link)
 
